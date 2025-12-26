@@ -21,3 +21,22 @@ Luxury goods imports remain suspended until further notice.
 
 5. Inflation Data
 Year-on-year inflation for the fiscal year ending 2024 is projected to hover between 15-20%, driven largely by transport costs and imported commodity prices.
+
+6. Banking Sector Overview
+Myanmar's banking sector consists of 27 licensed commercial banks. The largest banks by assets include KBZ Bank, CB Bank, AYA Bank, and UAB Bank. All banks must maintain minimum capital adequacy ratio of 8% as per Basel III standards.
+
+7. Digital Payment Adoption
+Mobile payment platforms have seen rapid adoption, with over 15 million registered users across all platforms. KBZPay leads with approximately 8 million users, followed by Wave Money with 5 million users.
+
+8. Remittance Inflows
+Annual remittances from Myanmar workers abroad total approximately USD 2.5-3.0 billion, primarily from Thailand, Malaysia, and Singapore. These remittances are crucial for household income and balance of payments stability.
+
+9. Foreign Investment
+Foreign direct investment (FDI) approvals have declined significantly since 2021. Priority sectors for investment include manufacturing, agriculture, infrastructure, and energy. Minimum investment thresholds vary by sector.
+
+10. Monetary Policy Tools
+The CBM uses various tools to manage liquidity:
+- Policy interest rate: Currently 8.5%
+- Reserve requirement: 5% for commercial banks
+- Open market operations: Limited due to underdeveloped bond market
+- Foreign exchange intervention: Constrained by low reserves

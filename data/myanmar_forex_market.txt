@@ -1,0 +1,58 @@
+MYANMAR FOREIGN EXCHANGE MARKET ANALYSIS 2024
+
+1. Exchange Rate Mechanisms
+The Myanmar Kyat (MMK) exchange rate is determined through a dual-track system:
+- Official Rate: Set by CBM daily, used for government transactions and priority imports
+- Market Rate: Determined by supply and demand, typically 10-15% higher than official rate
+- Parallel Market: Informal trading occurs at rates 20-30% above official rate
+
+2. Major Currency Pairs
+As of Q2 2024, average exchange rates:
+- USD/MMK Official: 2,100 MMK per USD
+- USD/MMK Market: 2,350-2,450 MMK per USD
+- EUR/MMK: 2,550-2,650 MMK per EUR
+- THB/MMK: 65-70 MMK per THB
+- CNY/MMK: 320-330 MMK per CNY
+
+3. Export Earnings Conversion
+Exporters must convert foreign currency earnings as follows:
+- 35% at official CBM rate (mandatory within 1 business day)
+- 65% can be retained or sold at market rates
+- Export proceeds must be received through authorized dealer banks
+- Documentation required: Export license, shipping documents, invoice
+
+4. Import Payment Regulations
+Importers face restrictions based on priority:
+- Priority Imports (fuel, medicine, fertilizer): Can access official rate through banks
+- General Imports: Must purchase foreign currency at market rates
+- Luxury Goods: Import ban remains in effect
+- Payment terms: Maximum 90 days credit for imports
+
+5. Foreign Investment Currency Rules
+Foreign direct investment (FDI) companies:
+- Can repatriate profits after tax payment
+- Must convert 50% of local revenue to foreign currency through authorized banks
+- Capital repatriation requires CBM approval
+- Minimum investment: USD 50,000 for manufacturing, USD 300,000 for services
+
+6. Remittance and Transfer Fees
+- Outward remittances: 0.5% fee + telegraphic transfer charges
+- Inward remittances: No fees for recipients
+- Maximum transfer: USD 10,000 per day for individuals
+- Business transfers: Up to USD 50,000 with proper documentation
+
+7. Currency Exchange Points
+Authorized currency exchange counters:
+- Must be licensed by CBM
+- Can only buy/sell major currencies (USD, EUR, SGD, THB, CNY)
+- Daily transaction limit: MMK 10,000,000 per customer
+- Must report transactions exceeding MMK 5,000,000
+
+8. Market Volatility Factors
+Key factors affecting MMK exchange rate:
+- Political stability and security situation
+- Trade balance (exports vs imports)
+- Foreign reserves level (estimated USD 1.2 billion as of 2024)
+- Remittance inflows (estimated USD 2.5 billion annually)
+- Regional economic conditions (especially Thailand and China)
+

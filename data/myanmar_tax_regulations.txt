@@ -1,0 +1,100 @@
+MYANMAR TAX REGULATIONS AND COMPLIANCE 2024
+
+1. Corporate Income Tax
+- Standard rate: 25% of taxable income
+- Small businesses (annual revenue < MMK 50 million): 3% flat rate
+- Special Economic Zones (SEZ): 5-7% for first 5 years, then 15%
+- Tax year: April 1 to March 31
+- Filing deadline: June 30 (3 months after year-end)
+- Advance tax: 4 quarterly installments based on previous year's tax
+
+2. Personal Income Tax
+Tax brackets for individuals:
+- 0-2,000,000 MMK: 0%
+- 2,000,001-5,000,000 MMK: 5%
+- 5,000,001-10,000,000 MMK: 10%
+- 10,000,001-20,000,000 MMK: 15%
+- 20,000,001-30,000,000 MMK: 20%
+- Above 30,000,000 MMK: 25%
+- Annual filing deadline: March 31
+
+3. Commercial Tax (Sales Tax)
+- Standard rate: 5% on goods and services
+- Exempt items: Basic food items, medicine, educational materials
+- Reduced rate: 0% for exports
+- Special rates: 8% for luxury goods, 10% for alcohol and tobacco
+- Filing: Monthly returns due by 15th of following month
+
+4. Withholding Tax
+Applicable rates:
+- Interest income: 15%
+- Dividend income: 10%
+- Royalty income: 15%
+- Service fees: 2.5% (for residents), 2.5-15% (for non-residents)
+- Rent income: 10%
+- Professional services: 10%
+
+5. Capital Gains Tax
+- Real estate: 10% on gains from property sales
+- Securities: 10% on stock trading profits
+- Exemptions: Principal residence (one-time), assets held > 3 years (reduced rate)
+
+6. Value Added Tax (VAT)
+- Not currently implemented in Myanmar
+- Under consideration for future tax reform
+- Commercial Tax serves similar function
+
+7. Customs and Import Duties
+- General import duty: 0-40% depending on product category
+- Essential goods (medicine, food): 0-5%
+- Luxury goods: 15-40%
+- Export duty: Generally 0%, except for raw materials (5-10%)
+- Special Economic Zones: Reduced or zero duties
+
+8. Stamp Duty
+- Property transactions: 2-4% of property value
+- Loan agreements: 0.1% of loan amount
+- Share transfers: 0.5% of transaction value
+- Lease agreements: 0.5% of annual rent
+
+9. Special Business Tax (SBT)
+Applies to specific sectors:
+- Hotels and tourism: 5% of revenue
+- Restaurants: 3% of revenue
+- Entertainment: 10% of revenue
+- Telecommunications: 5% of revenue
+
+10. Tax Incentives
+Available for:
+- Manufacturing in SEZs: 5-7 year tax holiday
+- Export-oriented businesses: Reduced rates
+- Agriculture and livestock: Tax exemptions
+- Education and healthcare: Tax benefits
+- Infrastructure projects: Special concessions
+
+11. Tax Compliance Requirements
+All businesses must:
+- Register with Internal Revenue Department (IRD)
+- Obtain Tax Identification Number (TIN)
+- Maintain proper accounting records (English or Myanmar)
+- File monthly Commercial Tax returns
+- File annual Income Tax returns
+- Keep records for 6 years minimum
+
+12. Penalties and Interest
+- Late filing: 10% penalty on tax due
+- Late payment: 2% per month interest
+- Underpayment: 50% penalty on tax shortfall
+- Non-compliance: Additional penalties and possible prosecution
+
+13. Double Taxation Treaties
+Myanmar has DTA with:
+- Singapore, Thailand, Vietnam, India, South Korea, UK
+- Reduces withholding tax rates for cross-border transactions
+- Provides tax credit mechanisms
+
+14. Transfer Pricing
+- Related party transactions must be at arm's length
+- Documentation required for transactions > MMK 50 million
+- CBM and IRD monitor transfer pricing compliance
+

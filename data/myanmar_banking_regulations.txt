@@ -1,0 +1,48 @@
+MYANMAR BANKING REGULATIONS AND POLICIES 2024
+
+1. Central Bank of Myanmar (CBM) Monetary Policy
+The CBM maintains a managed float exchange rate system. The reference rate is published daily at 9:00 AM Myanmar Standard Time. Commercial banks are required to trade within a 0.5% band of the reference rate for official transactions.
+
+2. Foreign Currency Account Regulations
+- Resident individuals can hold foreign currency accounts (FCA) with authorized banks.
+- Minimum deposit: USD 1,000 or equivalent.
+- Withdrawals require documentation proving legitimate business or travel purposes.
+- Non-residents have unrestricted FCA access.
+
+3. Remittance Services
+International remittances through licensed money transfer operators (MTOs) are capped at:
+- USD 10,000 per transaction for individuals
+- USD 50,000 per transaction for businesses
+- All remittances must be reported to the CBM within 24 hours.
+
+4. Bank Licensing Requirements
+New commercial bank licenses require:
+- Minimum paid-up capital: MMK 20 billion
+- At least 3 years of financial services experience
+- Compliance with Basel III capital adequacy ratios (minimum 8% Tier 1 capital)
+
+5. Digital Payment Systems
+The CBM has approved the following mobile payment platforms:
+- KBZPay (Kanbawza Bank)
+- Wave Money (Telenor Myanmar)
+- CB Pay (CB Bank)
+- AYA Pay (AYA Bank)
+- UAB Pay (United Amara Bank)
+
+All platforms must maintain transaction records for 7 years and report suspicious activities to the Financial Intelligence Unit (FIU).
+
+6. Interest Rate Policy
+As of 2024, the CBM policy rate stands at 8.5%. Commercial banks are free to set deposit and lending rates, but must maintain a minimum spread of 2% between deposit and lending rates to ensure profitability.
+
+7. Credit Card Regulations
+- Credit cards issued in Myanmar can only be used domestically.
+- International credit cards (Visa, Mastercard) are accepted at hotels and select merchants but subject to 2% foreign transaction fee.
+- Maximum credit limit: MMK 5,000,000 per cardholder.
+
+8. Anti-Money Laundering (AML) Requirements
+All financial institutions must:
+- Conduct customer due diligence (CDD) for all accounts
+- Report transactions exceeding MMK 10,000,000 to the FIU
+- Maintain records for 5 years minimum
+- Train staff on AML compliance annually
+
