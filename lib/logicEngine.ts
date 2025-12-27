@@ -21,7 +21,7 @@ export interface FinancialData {
 export interface CalculationResult {
   type: string;
   value: number | string;
-  breakdown?: Record<string, number | string>;
+  breakdown?: Record<string, any>;
   trend?: 'up' | 'down' | 'stable';
   interpretation?: string;
 }

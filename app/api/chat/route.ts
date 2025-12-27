@@ -194,7 +194,7 @@ async function handleFastMode({
     const analysis = runQuickAnalysis(parsedData, intent.analysisType);
     if (analysis) {
       analysisResult = {
-        type: analysis.type || 'calculation',
+        type: 'calculation',
         calculations: analysis.calculations.map(c => ({
           label: c.type,
           value: typeof c.value === 'number' ? formatValue(c.value, c.type) : c.value,
@@ -339,7 +339,7 @@ async function handleDeepThinkMode({
     // Map analysis type
     let analysisType: 'profit' | 'cashflow' | 'ratio' | 'growth' | 'trend' | 'comparison' | 'breakeven' = 'profit';
     if (analysisPlan.analysisType) {
-      const typeMap: Record<string, typeof analysisType> = {
+      const typeMap: Record<string, 'profit' | 'cashflow' | 'ratio' | 'growth' | 'trend' | 'comparison' | 'breakeven'> = {
         'profit': 'profit',
         'profit_loss': 'profit',
         'cashflow': 'cashflow',

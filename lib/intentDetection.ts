@@ -204,7 +204,8 @@ function detectAnalysisType(query: string): AnalysisType {
     [AnalysisType.GROWTH]: ['growth', 'increase', 'decrease', 'cagr', 'တိုးတက်', 'ကျဆင်း'],
     [AnalysisType.TREND]: ['trend', 'pattern', 'over time', 'monthly', 'yearly', 'လမ်းကြောင်း'],
     [AnalysisType.BREAK_EVEN]: ['break even', 'breakeven', 'break-even', 'cover costs'],
-    [AnalysisType.COMPARISON]: ['compare', 'versus', 'vs', 'difference', 'နှိုင်းယှဉ်', 'ကွာခြား']
+    [AnalysisType.COMPARISON]: ['compare', 'versus', 'vs', 'difference', 'နှိုင်းယှဉ်', 'ကွာခြား'],
+    [AnalysisType.GENERAL]: ['analyze', 'calculate', 'compute', 'တွက်', 'ခွဲခြမ်း']
   };
   
   for (const [type, keywords] of Object.entries(patterns)) {

@@ -474,13 +474,19 @@ export default function AdminPage() {
         <div className="max-w-6xl mx-auto px-6">
           <nav className="flex gap-1">
             {[
-              { id: 'knowledge' as AdminTab, label: 'Knowledge', icon: Icons.Document },
+              { id: 'knowledge' as AdminTab, label: 'Knowledge', icon: Icons.Document, href: '/admin/knowledge' },
               { id: 'data' as AdminTab, label: 'Data', icon: Icons.Database },
               { id: 'settings' as AdminTab, label: 'Settings', icon: Icons.Settings },
             ].map(tab => (
-              <button
+              <a
                 key={tab.id}
-                onClick={() => setActiveTab(tab.id)}
+                href={tab.href || `#${tab.id}`}
+                onClick={(e) => {
+                  if (!tab.href) {
+                    e.preventDefault();
+                    setActiveTab(tab.id);
+                  }
+                }}
                 className={`flex items-center gap-2 px-5 py-3 text-sm font-medium border-b-2 transition ${
                   activeTab === tab.id
                     ? 'border-vise-blue text-vise-blue'
@@ -489,7 +495,7 @@ export default function AdminPage() {
               >
                 <tab.icon />
                 {tab.label}
-              </button>
+              </a>
             ))}
           </nav>
         </div>
