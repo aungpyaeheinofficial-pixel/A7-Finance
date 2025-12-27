@@ -90,7 +90,7 @@ function StatusBadge({ status }: { status: KnowledgeDoc['status'] }) {
 }
 
 // ============ KNOWLEDGE MANAGEMENT ============
-function KnowledgeManagement() {
+function KnowledgeManagement({ adminPassword }: { adminPassword: string }) {
   const [documents, setDocuments] = useState<KnowledgeDoc[]>([
     { id: '1', title: 'CBM Exchange Rate Policy 2024', category: 'Regulations', status: 'indexed', chunkCount: 24, createdAt: new Date() },
     { id: '2', title: 'Myanmar Banking Regulations', category: 'Banking', status: 'indexed', chunkCount: 156, createdAt: new Date() },
@@ -117,19 +117,27 @@ function KnowledgeManagement() {
       const response = await fetch('/api/ingest', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ title: uploadTitle, content: uploadText, category: uploadCategory }),
+        body: JSON.stringify({
+          // API expects `text` (not `content`) and requires `password`
+          text: uploadText,
+          password: adminPassword,
+          // Keep metadata for future compatibility / debugging
+          title: uploadTitle,
+          category: uploadCategory,
+        }),
       });
 
       const data = await response.json();
 
       if (response.ok) {
-        setUploadStatus({ type: 'success', message: `Successfully processed ${data.chunks || 'multiple'} chunks` });
+        const chunksUploaded = data.uploadedCount ?? data.chunks ?? 0;
+        setUploadStatus({ type: 'success', message: `Successfully processed ${chunksUploaded} chunks` });
         const newDoc: KnowledgeDoc = {
           id: Date.now().toString(),
           title: uploadTitle,
           category: uploadCategory,
           status: 'indexed',
-          chunkCount: data.chunks || 0,
+          chunkCount: chunksUploaded,
           createdAt: new Date(),
         };
         setDocuments(prev => [newDoc, ...prev]);
@@ -503,7 +511,7 @@ export default function AdminPage() {
 
       {/* Content */}
       <main className="max-w-6xl mx-auto px-6 py-8">
-        {activeTab === 'knowledge' && <KnowledgeManagement />}
+        {activeTab === 'knowledge' && <KnowledgeManagement adminPassword={password} />}
         {activeTab === 'data' && <DataManagement />}
         {activeTab === 'settings' && <SettingsPanel />}
       </main>
